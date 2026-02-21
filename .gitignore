@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+frontend/node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+ai_counsellor/venv/
+
+# Environment Variables (SENSITIVE)
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+frontend/.env
+
+# Logs
+*.log
+payment_log.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
